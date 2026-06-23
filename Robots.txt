@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qberextreme-maker.github.io/Egoist-Training-BLR/sitemap.xml
